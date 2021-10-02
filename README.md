@@ -9,6 +9,4 @@ I do not own this script, just modify it.
 
 # RESMON 0.1 MS
 
-# INSTALLING
-
-start discordpresence
+# INSTALLING start discordpresence
