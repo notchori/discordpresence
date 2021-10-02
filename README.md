@@ -3,7 +3,7 @@ I do not own this script, just modify it.
 # Discordpresence
 # Easy configuration
 
-# Dependencies discord bot
+# Dependencies (https://discord.com/developers/applications)
 
 # Preview (https://i.imgur.com/qEByhG4.png)
 
